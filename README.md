@@ -9,16 +9,15 @@ This is a quick README for the following packages:
 
 To retrieve the last build just text on your shell:
 
-git clone https://alessio_trois@bitbucket.org/alessio_trois/build_srtclasswriter.git
+git clone https://alessio_trois@bitbucket.org/alessio_trois/build_getcopyright.git
 
 ### Dependencies
 
-GILDAS Version: jul14c (08dec14 11:41 cet)
 
 
 ### INSTALL ###
 
-cd build_srtclasswriter
+cd build_getcopyright
 
 make install prefix=/complete_path/
 
@@ -36,25 +35,12 @@ And then insert in your PATH
 
 ### Usage ###
 ---------------------------------------------------------------------------
-srt_class_writer inputFile outputFile summaryFile 
+srt_copyright_writer inputFile outputFile  
 
 Output:
-outputFile (fits file) and outputFile.gdf (class file)
+outputFile (fits file)
 ---------------------------------------------------------------------------
 
----------------------------------------------------------------------------
-srt_onoff_writer inputFileON(fits file) inputFileOFF(fits file) outputFile 
-
-Output:
-outputFile (fits file) and outputFile.gdf (class file)
----------------------------------------------------------------------------
-
----------------------------------------------------------------------------
-srt_merge_writer fileList outputFile
-
-Output:
-outputFile (fits file) and outputFile.gdf (class file)
----------------------------------------------------------------------------
 
 ### Who do I talk to? ###
 
@@ -64,9 +50,6 @@ Alessio Trois
 atrois@oa-cagliari.inaf.it
 +39 070****
 
-Andrea Tarchi 
-atarchi@oa-cagliari.inaf.it
-+39 070***
 
 SRT Team - Any information contained in this document
 is property of the AGILE Team and is strictly
