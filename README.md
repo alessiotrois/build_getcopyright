@@ -73,4 +73,4 @@ is property of the AGILE Team and is strictly
 private and confidential. All rights reserved
 
 
-* Add others team contact
+* Add others team contact# build_getcopyright
