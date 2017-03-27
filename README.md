@@ -7,7 +7,7 @@ This is a quick README for the following packages:
 
 To retrieve the last build just text on your shell:
 
-git clone https://alessio_trois@bitbucket.org/alessio_trois/build_getcopyright.git
+git clone https://github.com/alessiotrois/build_getcopyright
 
 ### Dependencies
 
