@@ -1,8 +1,6 @@
 This is a quick README for the following packages:
 
-1. srt_class_writer
-2. srt_class_onoff
-3. srt_class_merge 
+1. srt_copyright_writer
 
 
 ### Build Download ###
