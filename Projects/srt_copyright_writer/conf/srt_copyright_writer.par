@@ -1,0 +1,2 @@
+infile,s,q,"_001_001.fits",,,"Enter input file name"
+outfile,s,q,"!pippo.fits",,,"Enter output file name"
